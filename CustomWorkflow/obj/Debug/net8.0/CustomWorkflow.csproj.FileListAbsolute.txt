@@ -1,0 +1,17 @@
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\CustomWorkflow.exe
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\CustomWorkflow.deps.json
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\CustomWorkflow.runtimeconfig.json
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\CustomWorkflow.dll
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\CustomWorkflow.pdb
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\bin\Debug\net8.0\Stateless.dll
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.csproj.AssemblyReference.cache
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.AssemblyInfoInputs.cache
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.AssemblyInfo.cs
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.csproj.CoreCompileInputs.cache
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWo.0EAC2A9D.Up2Date
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.dll
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\refint\CustomWorkflow.dll
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.pdb
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\CustomWorkflow.genruntimeconfig.cache
+C:\Users\IevgenTalerko\RiderProjects\CustomWorkflow\CustomWorkflow\obj\Debug\net8.0\ref\CustomWorkflow.dll

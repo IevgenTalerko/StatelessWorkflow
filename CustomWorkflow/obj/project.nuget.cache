@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ebr2F0FX9HSuwfQEEynK14AxEuicFKJI9YF+R9wJ/iIxk8A46N1Vl/e3gLe76uUcDDB5eQ7jz+a2Fu5rTebKxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IevgenTalerko\\RiderProjects\\CustomWorkflow\\CustomWorkflow\\CustomWorkflow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IevgenTalerko\\.nuget\\packages\\stateless\\5.16.0\\stateless.5.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
